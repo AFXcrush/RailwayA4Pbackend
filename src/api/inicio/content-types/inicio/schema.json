@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "inicios",
+  "info": {
+    "singularName": "inicio",
+    "pluralName": "inicios",
+    "displayName": "inicio"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "descripcion": {
+      "type": "richtext",
+      "default": "Albergue peruano de perritos rescatados",
+      "required": true,
+      "maxLength": 200,
+      "minLength": 50
+    }
+  }
+}
